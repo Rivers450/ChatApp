@@ -6,4 +6,5 @@ This is the Chat Engine link if you want to check the website out: https://chate
 2. In the terminal type in: npm install, this will install the needed packages to run this app
 3. After all the packages are installed, in the terminal type in: npm run start, this will start the server (by default it will be localhost:3000)
 4. If it server does not automatically run in a browser, then you will need to open a browser and in the URL type in: localhost:3000
+
 If there are any difficulties with this, please let me know, my email is: rivers.snyder2023@gmail.com
